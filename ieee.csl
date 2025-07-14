@@ -314,7 +314,7 @@
               <text value="."/>
             </if>
             <else>
-              <text value=","/>
+              <text value="."/>
             </else>
           </choose>
           <text macro="access"/>
